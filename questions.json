@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is tokenization?",
+    "expect": ["token", "subword"]
+  },
+  {
+    "question": "What are token embeddings?",
+    "expect": ["embedding", "vector"]
+  },
+  {
+    "question": "How does self-attention work?",
+    "expect": ["attention", "query", "key"]
+  },
+  {
+    "question": "What is the difference between an encoder and a decoder model?",
+    "expect": ["encoder", "decoder"]
+  },
+  {
+    "question": "What is a context window?",
+    "expect": ["context", "window", "length"]
+  },
+  {
+    "question": "How does semantic search differ from keyword search?",
+    "expect": ["semantic", "search"]
+  },
+  {
+    "question": "What is dense retrieval?",
+    "expect": ["dense", "retrieval", "embedding"]
+  },
+  {
+    "question": "What is a reranker used for?",
+    "expect": ["rerank", "relevance"]
+  },
+  {
+    "question": "What is retrieval augmented generation?",
+    "expect": ["retrieval", "generation", "grounding"]
+  },
+  {
+    "question": "How does text classification with embeddings work?",
+    "expect": ["classification", "embedding", "label"]
+  },
+  {
+    "question": "What is topic modeling?",
+    "expect": ["topic", "cluster"]
+  },
+  {
+    "question": "What does temperature control during generation?",
+    "expect": ["temperature", "sampling", "random"]
+  },
+  {
+    "question": "What is few shot prompting?",
+    "expect": ["few-shot", "few shot", "example"]
+  },
+  {
+    "question": "What is chain of thought prompting?",
+    "expect": ["chain of thought", "reasoning", "step"]
+  },
+  {
+    "question": "What is LoRA?",
+    "expect": ["lora", "low-rank", "adapter"]
+  },
+  {
+    "question": "What is quantization and why is it used?",
+    "expect": ["quantiz", "bit", "memory"]
+  },
+  {
+    "question": "How is a reward model used in preference tuning?",
+    "expect": ["reward", "preference"]
+  },
+  {
+    "question": "What is the difference between fine tuning and prompting?",
+    "expect": ["fine-tun", "fine tun", "prompt"]
+  },
+  {
+    "question": "What are sentence transformers used for?",
+    "expect": ["sentence", "transformer", "embedding"]
+  },
+  {
+    "question": "What is the capital of Mongolia?",
+    "expect": ["__SHOULD_MISS__"]
+  }
+]
